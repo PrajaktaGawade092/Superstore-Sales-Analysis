@@ -1,0 +1,13 @@
+Region,Category,total_sales,total_profit,profit_margin_pct,margin_category
+Central,Technology,170401.53,33693.44,19.77,"High Margin"
+Central,"Office Supplies",164616.2,9020.72,5.48,"Medium Margin"
+Central,Furniture,162783.14,-2585.25,-1.59,"Low Margin"
+East,"Office Supplies",201781.62,40730.64,20.19,"High Margin"
+East,Technology,264872.08,47439.56,17.91,"High Margin"
+East,Furniture,205540.35,2501.82,1.22,"Low Margin"
+South,"Office Supplies",123979.92,19577.08,15.79,"High Margin"
+South,Technology,148730.52,19982.82,13.44,"Medium Margin"
+South,Furniture,116273.14,6475.79,5.57,"Medium Margin"
+West,"Office Supplies",213125.18,51161.45,24.01,"High Margin"
+West,Technology,251895.93,44271.28,17.58,"High Margin"
+West,Furniture,248450.23,10588.42,4.26,"Low Margin"
